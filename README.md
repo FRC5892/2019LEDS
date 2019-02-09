@@ -1,2 +1,2 @@
-# Super-Pit-Blinky-Blink
-the code for anything related to the super pit lights
+# 2019LEDS
+the code for anything related to LEDS for the 2019 season
