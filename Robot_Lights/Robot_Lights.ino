@@ -14,7 +14,7 @@ void setup() {
 }
 
 void loop() {
-  int i = Serial.read();  
+  i = Serial.read();  
 }
 
 void switchPattern() {
